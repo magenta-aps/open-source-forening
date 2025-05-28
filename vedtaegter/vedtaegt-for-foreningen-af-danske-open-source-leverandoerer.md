@@ -1,12 +1,12 @@
-Vedtægt
+**Vedtægt**
 
-for
+**for**
 
-Foreningen af Danske Open Source Leverandører
+**Foreningen af Danske Open Source Leverandører**
 
-(Open Source Netværket)
+**(Open Source Netværket)**
 
-som vedtaget den...
+**som vedtaget den 28. maj 2025**
 
 ## 1. NAVN, HJEMSTED OG FORMÅL
 
@@ -20,8 +20,8 @@ Foreningen skal med samme formål deltage i internationale netværk og sammenhæ
 
 Definitionen af open source software refererer til The Open Source Definition, således som denne til enhver tid formuleres af Open Source Initiative (OSI).
 
-
 ## 2. MEDLEMSFORHOLD  
+
 Som medlem kan optages virksomheder og organisationer, der leverer open source software relaterede produkter eller ydelser, og som ønsker at arbejde aktivt til fremme af foreningens formål, herunder:
 
 - leverandører og udbydere af open source software løsninger, herunder også SaaS- og cloud-løsninger
@@ -51,7 +51,7 @@ Medlemmerne er forpligtet til at overholde foreningens vedtægter og leve op til
 
 #### Medlemsdata
 
-Medlemsdata behandles i henhold til GDPR, og data slettes med udmeldelse.
+Medlemsdata behandles i henhold til GDPR, og data slettes ved udmeldelse.
 
 ## 3. BESTYRELSEN  
 
